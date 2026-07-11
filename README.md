@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA96B,100:FF7A9C&height=190&section=header&text=Aman%20Sikarwar&fontSize=46&fontColor=100C13&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20%26%20AI%20Engineer&descAlignY=57&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA96B,100:FF7A9C&height=190&section=header&text=Aman%20Sikarwar&fontSize=46&fontColor=100C13&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20%26amp%3B%20AI%20Engineer&descAlignY=57&descSize=18"/>
 
 <div align="center">
 
