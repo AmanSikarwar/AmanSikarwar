@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=FF7A9C&center=true&vCenter=true&width=640&height=45&lines=Apps+on+both+stores%2C+agentic+AI+in+production;Flutter+%2B+SwiftUI%2C+pixel-perfect+UI+to+LLM+pipelines;Currently+building+AI+agents+at+Profundis+AI)](https://amansikarwar.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=FF7A9C&center=true&vCenter=true&width=680&height=45&lines=3+apps+live+on+the+App+Store+%2B+Play+Store;Flutter+%2B+SwiftUI%2C+pixel-perfect+UI+to+LLM+pipelines;Building+agentic+AI+at+Profundis+AI)](https://amansikarwar.dev)
 
 [![Portfolio](https://img.shields.io/badge/amansikarwar.dev-FFA96B?style=for-the-badge&logo=safari&logoColor=100C13)](https://amansikarwar.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1420?style=for-the-badge&logo=linkedin&logoColor=FFA96B)](https://linkedin.com/in/amansikarwar)
@@ -11,6 +11,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-1A1420?style=for-the-badge&logo=youtube&logoColor=FFA96B)](https://youtube.com/@amansikarwaar)
 [![Medium](https://img.shields.io/badge/Medium-1A1420?style=for-the-badge&logo=medium&logoColor=FFA96B)](https://medium.com/@amansikarwar)
 [![Email](https://img.shields.io/badge/Email-1A1420?style=for-the-badge&logo=gmail&logoColor=FFA96B)](mailto:amansikarwaar@gmail.com)
+[![Followers](https://img.shields.io/github/followers/AmanSikarwar?style=for-the-badge&logo=github&logoColor=FFA96B&labelColor=1A1420&color=1A1420)](https://github.com/AmanSikarwar)
+
+*I ship the whole product — from pixel-perfect mobile UI to LLM pipelines and cloud infra.*
 
 </div>
 
@@ -20,38 +23,49 @@
 name: Aman Sikarwar
 site: amansikarwar.dev
 role: AI FullStack Engineer @ Profundis AI
-education: B.Tech Data Science, IIT Mandi (2026)
+education: B.Tech Data Science, IIT Mandi '26
 
 shipped:
   - 3 apps live on the App Store & Play Store
   - 15+ projects across mobile, web & AI
   - patches merged into 86k★ of open source
 
+previously:
+  - Syncubator: 2 production apps end-to-end, WebRTC + MQTT real-time device layer, AWS IoT stack from zero
+
 currently:
   building: [agentic pipelines for Mittra, LLM fine-tuning, an LMS with live classes]
-  home_turf: [Flutter, SwiftUI, real-time device platforms]
+  home_turf: [Flutter, SwiftUI, Supabase Realtime, offline-first mobile]
 ```
 
 ### `// apps on the shelf`
 
-| | | |
-|---|---|---|
-| <img src="https://corpsesh.com/assets/logo.png" width="48" alt="Corp Sesh"/> | **Corp Sesh**<br/>Virtual chai breaks — start a 5-min break, ring your people & chat together in real time on iOS, Android & web | [App Store](https://apps.apple.com/us/app/corp-sesh/id6792173847) · [Play Store](https://play.google.com/store/apps/details?id=com.corpsesh.app) · [Web App](https://app.corpsesh.com) |
-| <img src="https://amansikarwar.dev/images/apps/myitihas.png" width="48" alt="MyItihas"/> | **MyItihas**<br/>AI-powered storytelling — story generation, real-time community & map-based heritage exploration in 4 languages | [App Store](https://apps.apple.com/in/app/myitihas/id6760975981) · [Play Store](https://play.google.com/store/apps/details?id=com.myitihas.app) |
-| <img src="https://amansikarwar.dev/images/apps/honk.png" width="48" alt="Honk"/> | **Honk**<br/>Real-time group coordination over Supabase Realtime — no refresh, no spinners | [Code](https://github.com/AmanSikarwar/honk) |
-| <img src="https://amansikarwar.dev/images/apps/freedium.png" width="48" alt="Freedium Mobile"/> | **Freedium Mobile**<br/>Open-source Android reader for Medium members-only articles — 98★ and counting | [Code](https://github.com/AmanSikarwar/freedium_mobile) |
-| <img src="https://amansikarwar.dev/images/apps/flavyo.png" width="48" alt="Flavyo"/> | **Flavyo**<br/>B2B stock & order management for ice-cream distribution | [Code](https://github.com/AmanSikarwar/flavyo) |
-| <img src="https://amansikarwar.dev/images/apps/taskhub.png" width="48" alt="TaskHub"/> | **TaskHub**<br/>Task management & team collaboration | [Code](https://github.com/AmanSikarwar/taskhub) |
-| <img src="https://amansikarwar.dev/images/apps/VPatch.png" width="48" alt="VPatch"/> | **VPatch**<br/>Wearable vital monitoring for neonates | [Code](https://github.com/syncubator-A11/vital-monitoring-patch) |
+> Live store apps first, then open-source flagships. The full shelf lives at [amansikarwar.dev](https://amansikarwar.dev/#projects).
 
-Also on the shelf: [Anime Explorer](https://github.com/AmanSikarwar/Anime-Explorer) (pure SwiftUI) · [TMDB Movie Discovery](https://github.com/AmanSikarwar/tmdb-app) (Liquid Glass, iOS 26) · [flutter-wipe](https://github.com/AmanSikarwar/flutter-wipe) (Rust CLI) · [MatFixer](https://github.com/AmanSikarwar/matfixer) · [Agent Skills Generator](https://github.com/AmanSikarwar/agent-skills-generator) · [Stockade](https://github.com/AmanSikarwar/stockade) — the full shelf lives at [amansikarwar.dev](https://amansikarwar.dev/#projects)
+| App | What it is | Get it |
+|---|---|---|
+| <img src="https://corpsesh.com/assets/logo.png" width="48" alt="Corp Sesh"/> | **Corp Sesh**<br/>Virtual chai breaks — start a 5-min break, ring your people & chat together in real time<br/><sub>`iOS` `Android` `Web` `Realtime`</sub> | [App Store](https://apps.apple.com/us/app/corp-sesh/id6792173847) · [Play Store](https://play.google.com/store/apps/details?id=com.corpsesh.app) · [Web App](https://app.corpsesh.com) |
+| <img src="https://amansikarwar.dev/images/apps/myitihas.png" width="48" alt="MyItihas"/> | **MyItihas**<br/>AI-powered storytelling — generation, real-time community & map-based heritage exploration in 4 languages<br/><sub>`Flutter` `Supabase` `Offline-first`</sub> | [App Store](https://apps.apple.com/in/app/myitihas/id6760975981) · [Play Store](https://play.google.com/store/apps/details?id=com.myitihas.app) |
+| <img src="https://amansikarwar.dev/images/apps/honk.png" width="48" alt="Honk"/> | **Honk**<br/>Real-time group coordination over Supabase Realtime — no refresh, no spinners<br/><sub>`Flutter` `BLoC` `GoRouter` `FCM`</sub> | [Code](https://github.com/AmanSikarwar/honk) |
+| <img src="https://amansikarwar.dev/images/apps/freedium.png" width="48" alt="Freedium Mobile"/> | **Freedium Mobile**<br/>Open-source Android reader for Medium members-only articles — 98★ and counting<br/><sub>`Flutter` `Material You` `Offline`</sub> | [Code](https://github.com/AmanSikarwar/freedium_mobile) |
+| <img src="https://amansikarwar.dev/images/apps/flavyo.png" width="48" alt="Flavyo"/> | **Flavyo**<br/>B2B stock & order management for ice-cream distribution<br/><sub>`Flutter` `Supabase` `RLS`</sub> | [Code](https://github.com/AmanSikarwar/flavyo) |
+| <img src="https://amansikarwar.dev/images/apps/taskhub.png" width="48" alt="TaskHub"/> | **TaskHub**<br/>Task management & team collaboration with real-time sync<br/><sub>`Flutter` `Supabase` `BLoC`</sub> | [Code](https://github.com/AmanSikarwar/taskhub) |
+| <img src="https://amansikarwar.dev/images/apps/VPatch.png" width="48" alt="VPatch"/> | **VPatch**<br/>Wearable vital monitoring for neonates over MQTT<br/><sub>`Flutter` `ESP32` `MQTT`</sub> | [Code](https://github.com/syncubator-A11/vital-monitoring-patch) |
+
+**More from the lab:** [Anime Explorer](https://github.com/AmanSikarwar/Anime-Explorer) — pure SwiftUI + Jikan API · [TMDB Discovery](https://github.com/AmanSikarwar/tmdb-app) — Liquid Glass, iOS 26 · [flutter-wipe](https://github.com/AmanSikarwar/flutter-wipe) — Rust CLI for `flutter clean` · [MatFixer](https://github.com/AmanSikarwar/matfixer) — multi-agent MATLAB repair with LangGraph + RAG · [Agent Skills Generator](https://github.com/AmanSikarwar/agent-skills-generator) — docs sites → `SKILL.md` · [Stockade](https://github.com/AmanSikarwar/stockade) — self-hostable inventory + orders · [Petrophysical Analyzer](https://github.com/AmanSikarwar/petrophysical-analyzer) — LAS logs + Gemini interpretation · [Reimbursement RAG](https://github.com/AmanSikarwar/Reimbursement_RAG) — invoice Q&A over Qdrant · [EEG-To-Text](https://github.com/AmanSikarwar/EEG-To-Text) — brain signals → language
 
 ### `// patches sent upstream`
 
-| | | |
+| Project | What changed | Status |
 |---|---|---|
 | **[Mole](https://github.com/tw93/Mole)** — 58k★ · Shell | Reworked orphaned-service detection in the cleanup engine: generic launchd-plist analysis instead of a hardcoded orphan list | [PR #838](https://github.com/tw93/Mole/pull/838) `MERGED` |
 | **[ReVanced Manager](https://github.com/ReVanced/revanced-manager)** — 28k★ · Flutter | Modernized the networking & notification stack: dio cache interceptor, notifications migration, pruned dead dependencies | [PR #772](https://github.com/ReVanced/revanced-manager/pull/772) `MERGED` |
+
+### `// now`
+
+- 🤖 Building **agentic pipelines for Mittra** — a personalized therapist & consultant chatbot
+- 🧪 **Fine-tuning LLMs** for domain-specific response quality
+- 🎓 Developing an **LMS with live classes**, schedules & calendars
 
 ### `// toolbox`
 
@@ -70,6 +84,7 @@ Also on the shelf: [Anime Explorer](https://github.com/AmanSikarwar/Anime-Explor
 
 ![Node.js](https://img.shields.io/badge/Node.js-1A1420?style=for-the-badge&logo=nodedotjs&logoColor=FF7A9C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1A1420?style=for-the-badge&logo=typescript&logoColor=FF7A9C)
+![FastAPI](https://img.shields.io/badge/FastAPI-1A1420?style=for-the-badge&logo=fastapi&logoColor=FF7A9C)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1420?style=for-the-badge&logo=postgresql&logoColor=FF7A9C)
 ![Supabase](https://img.shields.io/badge/Supabase-1A1420?style=for-the-badge&logo=supabase&logoColor=FF7A9C)
 ![Firebase](https://img.shields.io/badge/Firebase-1A1420?style=for-the-badge&logo=firebase&logoColor=FF7A9C)
@@ -81,12 +96,14 @@ Also on the shelf: [Anime Explorer](https://github.com/AmanSikarwar/Anime-Explor
 ![Python](https://img.shields.io/badge/Python-1A1420?style=for-the-badge&logo=python&logoColor=FFA96B)
 ![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-1A1420?style=for-the-badge&logo=openai&logoColor=FFA96B)
 ![RAG](https://img.shields.io/badge/RAG-1A1420?style=for-the-badge&logo=elasticsearch&logoColor=FFA96B)
+![LangChain](https://img.shields.io/badge/LangChain-1A1420?style=for-the-badge&logo=langchain&logoColor=FFA96B)
 ![WebRTC](https://img.shields.io/badge/WebRTC-1A1420?style=for-the-badge&logo=webrtc&logoColor=FFA96B)
 ![MQTT](https://img.shields.io/badge/MQTT-1A1420?style=for-the-badge&logo=mqtt&logoColor=FFA96B)
 
 **Tools**
 
 ![Xcode](https://img.shields.io/badge/Xcode-1A1420?style=for-the-badge&logo=xcode&logoColor=FF7A9C)
+![Rust](https://img.shields.io/badge/Rust-1A1420?style=for-the-badge&logo=rust&logoColor=FF7A9C)
 ![Docker](https://img.shields.io/badge/Docker-1A1420?style=for-the-badge&logo=docker&logoColor=FF7A9C)
 ![GitHub Actions](https://img.shields.io/badge/Actions-1A1420?style=for-the-badge&logo=githubactions&logoColor=FF7A9C)
 ![Figma](https://img.shields.io/badge/Figma-1A1420?style=for-the-badge&logo=figma&logoColor=FF7A9C)
@@ -96,21 +113,28 @@ Also on the shelf: [Anime Explorer](https://github.com/AmanSikarwar/Anime-Explor
 
 ### `// github analytics`
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api?username=AmanSikarwar&show_icons=true&hide_border=true&bg_color=100C13&title_color=FFA96B&icon_color=FF7A9C&text_color=B0A3AC&ring_color=FFA96B&include_all_commits=true&count_private=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api?username=AmanSikarwar&show_icons=true&hide_border=true&bg_color=FAF5F0&title_color=D06B33&icon_color=D64277&text_color=6E5F6B&ring_color=D06B33&include_all_commits=true&count_private=true"/>
     <img width="100%" src="https://github-readme-stats.zohan.tech/api?username=AmanSikarwar&show_icons=true&hide_border=true&bg_color=100C13&title_color=FFA96B&icon_color=FF7A9C&text_color=B0A3AC&ring_color=FFA96B&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </picture>
-</div>
 
-<div align="center">
+</td>
+<td width="50%">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AmanSikarwar&hide_border=true&background=100C13&ring=FFA96B&fire=FF7A9C&currStreakLabel=FFA96B&sideLabels=B0A3AC&dates=7D6F7C&currStreakNum=F3EDE9&sideNums=F3EDE9"/>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AmanSikarwar&hide_border=true&background=FAF5F0&ring=D06B33&fire=D64277&currStreakLabel=D06B33&sideLabels=6E5F6B&dates=9C8D98&currStreakNum=2A1F27&sideNums=2A1F27"/>
     <img width="100%" src="https://streak-stats.demolab.com/?user=AmanSikarwar&hide_border=true&background=100C13&ring=FFA96B&fire=FF7A9C&currStreakLabel=FFA96B&sideLabels=B0A3AC&dates=7D6F7C&currStreakNum=F3EDE9&sideNums=F3EDE9" alt="GitHub Streak"/>
   </picture>
-</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <picture>
