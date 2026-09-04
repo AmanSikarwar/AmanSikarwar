@@ -23,7 +23,7 @@ role: AI FullStack Engineer @ Profundis AI
 education: B.Tech Data Science, IIT Mandi (2026)
 
 shipped:
-  - 2 apps live on the App Store & Play Store
+  - 3 apps live on the App Store & Play Store
   - 15+ projects across mobile, web & AI
   - patches merged into 86k★ of open source
 
@@ -36,6 +36,7 @@ currently:
 
 | | | |
 |---|---|---|
+| <img src="https://corpsesh.com/assets/logo.png" width="48" alt="Corp Sesh"/> | **Corp Sesh**<br/>Virtual chai breaks — start a 5-min break, ring your people & chat together in real time on iOS, Android & web | [App Store](https://apps.apple.com/us/app/corp-sesh/id6792173847) · [Play Store](https://play.google.com/store/apps/details?id=com.corpsesh.app) · [Web App](https://app.corpsesh.com) |
 | <img src="https://amansikarwar.dev/images/apps/myitihas.png" width="48" alt="MyItihas"/> | **MyItihas**<br/>AI-powered storytelling — story generation, real-time community & map-based heritage exploration in 4 languages | [App Store](https://apps.apple.com/in/app/myitihas/id6760975981) · [Play Store](https://play.google.com/store/apps/details?id=com.myitihas.app) |
 | <img src="https://amansikarwar.dev/images/apps/honk.png" width="48" alt="Honk"/> | **Honk**<br/>Real-time group coordination over Supabase Realtime — no refresh, no spinners | [Code](https://github.com/AmanSikarwar/honk) |
 | <img src="https://amansikarwar.dev/images/apps/freedium.png" width="48" alt="Freedium Mobile"/> | **Freedium Mobile**<br/>Open-source Android reader for Medium members-only articles — 98★ and counting | [Code](https://github.com/AmanSikarwar/freedium_mobile) |
