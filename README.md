@@ -145,9 +145,9 @@ currently:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanSikarwar&hide_border=true&bg_color=100C13&color=B0A3AC&line=FF7A9C&point=FFA96B&area=true&area_color=FF7A9C"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmanSikarwar&hide_border=true&bg_color=FAF5F0&color=6E5F6B&line=D64277&point=D06B33&area=true&area_color=D64277"/>
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSikarwar&hide_border=true&bg_color=100C13&color=B0A3AC&line=FF7A9C&point=FFA96B&area=true&area_color=FF7A9C" alt="Activity Graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-chart.vercel.app/graph?username=AmanSikarwar&hide_border=true&bg_color=100C13&color=B0A3AC&line=FF7A9C&point=FFA96B&area=true&area_color=FF7A9C"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-activity-chart.vercel.app/graph?username=AmanSikarwar&hide_border=true&bg_color=FAF5F0&color=6E5F6B&line=D64277&point=D06B33&area=true&area_color=D64277"/>
+    <img width="100%" src="https://github-activity-chart.vercel.app/graph?username=AmanSikarwar&hide_border=true&bg_color=100C13&color=B0A3AC&line=FF7A9C&point=FFA96B&area=true&area_color=FF7A9C" alt="Activity Graph"/>
   </picture>
 </div>
 
