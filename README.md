@@ -34,7 +34,7 @@ previously:
   - Syncubator: 2 production apps end-to-end, WebRTC + MQTT real-time device layer, AWS IoT stack from zero
 
 currently:
-  building: [agentic pipelines for Mittra, LLM fine-tuning, an LMS with live classes]
+  building: [apps for clients, system design for complex systems]
   home_turf: [Flutter, SwiftUI, Supabase Realtime, offline-first mobile]
 ```
 
@@ -63,9 +63,8 @@ currently:
 
 ### `// now`
 
-- 🤖 Building **agentic pipelines for Mittra** — a personalized therapist & consultant chatbot
-- 🧪 **Fine-tuning LLMs** for domain-specific response quality
-- 🎓 Developing an **LMS with live classes**, schedules & calendars
+- 🛠️ Building **apps for clients** — end-to-end mobile builds, from idea to store release
+- 🏗️ Learning **system design for complex systems** — architecture that scales
 
 ### `// toolbox`
 
