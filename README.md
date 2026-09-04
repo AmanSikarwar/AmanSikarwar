@@ -52,7 +52,23 @@ currently:
 | <img src="https://amansikarwar.dev/images/apps/taskhub.png" width="48" alt="TaskHub"/> | **TaskHub**<br/>Task management & team collaboration with real-time sync<br/><sub>`Flutter` `Supabase` `BLoC`</sub> | [Code](https://github.com/AmanSikarwar/taskhub) |
 | <img src="https://amansikarwar.dev/images/apps/VPatch.png" width="48" alt="VPatch"/> | **VPatch**<br/>Wearable vital monitoring for neonates over MQTT<br/><sub>`Flutter` `ESP32` `MQTT`</sub> | [Code](https://github.com/syncubator-A11/vital-monitoring-patch) |
 
-**More from the lab:** [Anime Explorer](https://github.com/AmanSikarwar/Anime-Explorer) — pure SwiftUI + Jikan API · [TMDB Discovery](https://github.com/AmanSikarwar/tmdb-app) — Liquid Glass, iOS 26 · [flutter-wipe](https://github.com/AmanSikarwar/flutter-wipe) — Rust CLI for `flutter clean` · [MatFixer](https://github.com/AmanSikarwar/matfixer) — multi-agent MATLAB repair with LangGraph + RAG · [Agent Skills Generator](https://github.com/AmanSikarwar/agent-skills-generator) — docs sites → `SKILL.md` · [Stockade](https://github.com/AmanSikarwar/stockade) — self-hostable inventory + orders · [Petrophysical Analyzer](https://github.com/AmanSikarwar/petrophysical-analyzer) — LAS logs + Gemini interpretation · [Reimbursement RAG](https://github.com/AmanSikarwar/Reimbursement_RAG) — invoice Q&A over Qdrant · [EEG-To-Text](https://github.com/AmanSikarwar/EEG-To-Text) — brain signals → language
+<details>
+<summary><b>More from the lab</b> — 9 builds (SwiftUI, Rust CLIs, RAG systems…)</summary>
+<br/>
+
+| Project | What it is | Links |
+|---|---|---|
+| **Anime Explorer** | Pure SwiftUI anime browser — Jikan API, infinite scroll, Core Data favorites<br/><sub>`Swift` `SwiftUI` `Core Data`</sub> | [Code](https://github.com/AmanSikarwar/Anime-Explorer) |
+| **TMDB Discovery** | Liquid Glass movie browser for iOS 26 — feeds, search, watchlist<br/><sub>`Swift` `SwiftUI`</sub> | [Code](https://github.com/AmanSikarwar/tmdb-app) |
+| **flutter-wipe** | Blazing-fast Rust CLI that reclaims disk via `flutter clean`<br/><sub>`Rust`</sub> | [Code](https://github.com/AmanSikarwar/flutter-wipe) |
+| **MatFixer** | Multi-agent AI that diagnoses & fixes MATLAB code<br/><sub>`LangGraph` `RAG` `ChromaDB`</sub> | [Code](https://github.com/AmanSikarwar/matfixer) |
+| **Agent Skills Generator** | Crawls docs sites → token-optimized `SKILL.md` for coding agents<br/><sub>`Rust`</sub> | [Code](https://github.com/AmanSikarwar/agent-skills-generator) |
+| **Stockade** | Self-hostable inventory & order management with dashboards<br/><sub>`FastAPI` `PostgreSQL` `React`</sub> | [Code](https://github.com/AmanSikarwar/stockade) · [Live](https://stockade-delta.vercel.app/app) |
+| **Petrophysical Analyzer** | LAS well-log visualization + Gemini lithology interpretation<br/><sub>`Next.js` `D3` `Gemini`</sub> | [Code](https://github.com/AmanSikarwar/petrophysical-analyzer) |
+| **Reimbursement RAG** | Invoice Q&A against HR policies over Qdrant<br/><sub>`FastAPI` `LangChain` `Gemini`</sub> | [Code](https://github.com/AmanSikarwar/Reimbursement_RAG) |
+| **EEG-To-Text** | Decoding EEG brain signals into language<br/><sub>`PyTorch` `BART` `T5`</sub> | [Code](https://github.com/AmanSikarwar/EEG-To-Text) |
+
+</details>
 
 ### `// patches sent upstream`
 
